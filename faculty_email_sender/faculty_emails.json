@@ -1,0 +1,1723 @@
+[
+  {
+    "name": "Barkeshli",
+    "email": "maissam@umd.edu",
+    "university": "UMD"
+  },
+  {
+    "name": "Sau",
+    "email": "jaydsau@umd.edu",
+    "university": "UMD"
+  },
+  {
+    "name": "Galitski",
+    "email": "galitski@umd.edu",
+    "university": "UMD"
+  },
+  {
+    "name": "Monroe",
+    "email": "monroe@umd.edu",
+    "university": "UMD"
+  },
+  {
+    "name": "Das Sarma",
+    "email": "dassarma@umd.edu",
+    "university": "UMD"
+  },
+  {
+    "name": "Manfra",
+    "email": "mmanfra@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Chen",
+    "email": "yongchen@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Vayrynen",
+    "email": "vayrynen@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Carlson",
+    "email": "ewcarlson@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Ma",
+    "email": "maruichao@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Cui",
+    "email": "cui177@purdue.edu",
+    "university": "Purdue"
+  },
+  {
+    "name": "Gupta",
+    "email": "gupta.208@osu.edu",
+    "university": "OSU"
+  },
+  {
+    "name": "Randeria",
+    "email": "randeria@mps.ohio-state.edu",
+    "university": "OSU"
+  },
+  {
+    "name": "Pekker",
+    "email": "pekkerd@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Boyanovsky",
+    "email": "boyan@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Schneble",
+    "email": "dominik.schneble@stonybrook.edu",
+    "university": "Stony Brook"
+  },
+  {
+    "name": "Belitsky",
+    "email": "andrei.belitsky@asu.edu",
+    "university": "ASU"
+  },
+  {
+    "name": "Kaindl",
+    "email": "robert.kaindl@asu.edu",
+    "university": "ASU"
+  },
+  {
+    "name": "Albert",
+    "email": "rza1@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Bi",
+    "email": "zjb5184@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Chan",
+    "email": "chan@phys.psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Chang",
+    "email": "cxc955@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Crespi",
+    "email": "vhc2@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Iadecola",
+    "email": "iadecola@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Jain",
+    "email": "jkj2@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Kaul",
+    "email": "ribhu.kaul@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Keim",
+    "email": "keim@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Li",
+    "email": "qil1@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Liu",
+    "email": "cxl56@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Liu",
+    "email": "yxl15@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Mao",
+    "email": "zim1@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Maynard",
+    "email": "maynard@phys.psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Shao",
+    "email": "ymshao@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Sofo",
+    "email": "sofo@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Yan",
+    "email": "binghai.yan@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Samarth",
+    "email": "nxs16@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Rigol",
+    "email": "mar56@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Rechtsman",
+    "email": "mcr22@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Muechler",
+    "email": "lfm5572@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Terrones",
+    "email": "mut11@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Zhu",
+    "email": "jxz26@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Weiss",
+    "email": "dsweiss@phys.psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Gibble",
+    "email": "keg15@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Gopalan",
+    "email": "vgopalan@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Islam",
+    "email": "ski5160@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Law",
+    "email": "sal6149@psu.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "K\u00f6nig",
+    "email": "elio.koenig@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Levchenko",
+    "email": "levchenko@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Esterlis",
+    "email": "esterlis@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Friesen",
+    "email": "friesen@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "McDermott",
+    "email": "rfmcdermott@wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Kuzmin",
+    "email": "rkuzmin@wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Plourde",
+    "email": "bplourde@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Eriksson",
+    "email": "maeriksson@wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Vavilov",
+    "email": "vavilov@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Woods",
+    "email": "benwoods@physics.wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Joynt",
+    "email": "rjjoynt@wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Saffman",
+    "email": "msaffman@wisc.edu",
+    "university": "UW\u2013Madison"
+  },
+  {
+    "name": "Burke",
+    "email": "kieron@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Chernyshev",
+    "email": "sasha@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Romh\u00e1nyi",
+    "email": "jromhany@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Scaffidi",
+    "email": "tscaffid@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "White",
+    "email": "srwhite@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Wu",
+    "email": "wur@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Yu",
+    "email": "jin.yu@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Parameswaran",
+    "email": "sidp@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Ritz",
+    "email": "tritz@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Collins",
+    "email": "collinsp@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Dennin",
+    "email": "mdennin@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Ho",
+    "email": "wilsonho@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Jauregui",
+    "email": "lajaure1@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Krivorotov",
+    "email": "ilya.krivorotov@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Xin",
+    "email": "huolin.xin@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Lee",
+    "email": "howardhw.lee@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Pan",
+    "email": "xiaoqing.pan@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Sanchez-Yamagishi",
+    "email": "javier.sanchezyamagishi@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Siwy",
+    "email": "zsiwy@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Taborek",
+    "email": "ptaborek@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Xia",
+    "email": "xia.jing@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Fisk",
+    "email": "zfisk@uci.edu",
+    "university": "UCI"
+  },
+  {
+    "name": "Allen",
+    "email": "mtallen@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Arovas",
+    "email": "darovas@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Averitt",
+    "email": "raveritt@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Barreiro",
+    "email": "barreiro@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Butov",
+    "email": "lvbutov@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Di Ventra",
+    "email": "diventra@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Du",
+    "email": "rdu@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Fra\u00f1\u00f3",
+    "email": "afrano@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Goldenfeld",
+    "email": "nigelg@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Grover",
+    "email": "tagrover@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Hirsch",
+    "email": "jhirsch@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Maple",
+    "email": "mbmaple@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "McGreevy",
+    "email": "mcgreevy@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Parker",
+    "email": "danielericparker@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Popmintchev",
+    "email": "tenio.popmintchev@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Schuller",
+    "email": "ischuller@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Shpyrko",
+    "email": "oshpyrko@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Wu",
+    "email": "wucj@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "You",
+    "email": "yiyou@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Serra",
+    "email": "mserra@physics.ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Fogler",
+    "email": "mfogler@ucsd.edu",
+    "university": "UCSD"
+  },
+  {
+    "name": "Wang",
+    "email": "hailin@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Belitz",
+    "email": "dbelitz@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Allcock",
+    "email": "dallcock@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Wineland",
+    "email": "djw34@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "van Enk",
+    "email": "svanenk@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Nguyen",
+    "email": "kxn@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Noeckel",
+    "email": "noeckel@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Toner",
+    "email": "jjt@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Taylor",
+    "email": "rpt@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Smith",
+    "email": "bjsmith@uoregon.edu",
+    "university": "UOregon"
+  },
+  {
+    "name": "Burnell",
+    "email": "fburnell@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Chubukov",
+    "email": "chubukov@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Goldman",
+    "email": "hgoldman@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Halley",
+    "email": "jwhalley@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Kamenev",
+    "email": "kamenev@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Perkins",
+    "email": "nperkins@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Shklovskii",
+    "email": "shklovski@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Valls",
+    "email": "valls@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Vi\u00f1als",
+    "email": "vinals@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Greven",
+    "email": "greven@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Kakalios",
+    "email": "kakalios@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "McLeod",
+    "email": "asmcleod@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Pribiag",
+    "email": "vpribiag@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Wang",
+    "email": "kewang@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Xu",
+    "email": "xu00062@umn.edu",
+    "university": "UMN",
+    "note": "Xianghan Xu - verify if this is the intended professor"
+  },
+  {
+    "name": "Zudov",
+    "email": "zudov001@umn.edu",
+    "university": "UMN"
+  },
+  {
+    "name": "Andrei",
+    "email": "eandrei@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Andrei",
+    "email": "natan@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Bartynski",
+    "email": "bart@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Blumberg",
+    "email": "girsh@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Chakhalian",
+    "email": "jak.chakhalian@rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Chakram",
+    "email": "schakram@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Chandra",
+    "email": "pchandra@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Chen",
+    "email": "sc3030@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Cheong",
+    "email": "sangc@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Kiryukhin",
+    "email": "vkir@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Oh",
+    "email": "ohsean@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Podzorov",
+    "email": "podzorov@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Rangan",
+    "email": "rangan@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Wu",
+    "email": "wdwu@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Zimmermann",
+    "email": "fmz@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Coleman",
+    "email": "coleman@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Haule",
+    "email": "haule@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Ioffe",
+    "email": "lioffe@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Kotliar",
+    "email": "kotliar@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Leath",
+    "email": "leath@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Lebowitz",
+    "email": "lebowitz@math.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Pixley",
+    "email": "jed.pixley@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Rabe",
+    "email": "rabe@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Roy",
+    "email": "ananda.roy@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Vanderbilt",
+    "email": "dhv@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Yuzbashyan",
+    "email": "eyuzbash@physics.rutgers.edu",
+    "university": "Rutgers"
+  },
+  {
+    "name": "Deng",
+    "email": "ldeng2@central.uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Hosur",
+    "email": "phosur@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Ordonez",
+    "email": "ordonez@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Chu",
+    "email": "cwchu@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Ren",
+    "email": "zren@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Curran",
+    "email": "sacurran@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Varghese",
+    "email": "okvarghese@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Miller",
+    "email": "jhmiller@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Chu",
+    "email": "wkchu@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Ting",
+    "email": "ting@uh.edu",
+    "university": "UH"
+  },
+  {
+    "name": "Canfield",
+    "email": "canfield@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Evans",
+    "email": "jevans@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Fei",
+    "email": "zfei@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Flint",
+    "email": "flint@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Furukawa",
+    "email": "furu@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Kaminski",
+    "email": "adamkam@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "McQueeney",
+    "email": "rmcqueen@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Prozorov",
+    "email": "prozorov@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Ribeiro",
+    "email": "ribeiro@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Setty",
+    "email": "csetty@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Travesset",
+    "email": "trvsst@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Tringides",
+    "email": "mctringi@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Wang",
+    "email": "jgwang@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Iadecola",
+    "email": "iadecola@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Antropov",
+    "email": "antropov@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Bud\u2019ko",
+    "email": "budko@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Koschny",
+    "email": "koschny@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Tanatar",
+    "email": "tanatar@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Ueland",
+    "email": "bgueland@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Vaknin",
+    "email": "vaknin@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Yao",
+    "email": "ykent@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Zhang",
+    "email": "fzhang@iastate.edu",
+    "university": "Iowa State"
+  },
+  {
+    "name": "Alexandradinata",
+    "email": "aalexan6@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Belanger",
+    "email": "daveph@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Narayan",
+    "email": "onarayan@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Shastry",
+    "email": "sriram@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Syzranov",
+    "email": "syzranov@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Velasco",
+    "email": "jvelasc5@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Yan",
+    "email": "aiyan@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Young",
+    "email": "petery@ucsc.edu",
+    "university": "UCSC"
+  },
+  {
+    "name": "Bonesteel",
+    "email": "nbonesteel@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Changlani",
+    "email": "hchanglani@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Dobrosavljevic",
+    "email": "vdobrosa@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Lewandowski",
+    "email": "clewandowski@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Manousakis",
+    "email": "emanousa@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Schlottmann",
+    "email": "pschlottmann@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Vafek",
+    "email": "ovafek@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Yang",
+    "email": "kyang3@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Gao",
+    "email": "hgao3@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Lind",
+    "email": "dlind@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Ni",
+    "email": "gni@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Hill",
+    "email": "sohill@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Lu",
+    "email": "zlu2@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Van\u202fWinkle",
+    "email": "dvanwinkle@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Zhao",
+    "email": "hzhao7@fsu.edu",
+    "university": "FSU"
+  },
+  {
+    "name": "Abanov",
+    "email": "abanov@physics.tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Agarwal",
+    "email": "girish.agarwal@tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Hu",
+    "email": "hu@physics.tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Nieva",
+    "email": "jrodrigueznieva@tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Pokrovsky",
+    "email": "valery@physics.tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Saslow",
+    "email": "saslow@physics.tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Xu",
+    "email": "slxu@tamu.edu",
+    "university": "TAMU"
+  },
+  {
+    "name": "Cheng",
+    "email": "glcheng@ustc.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Choudhury",
+    "email": "sayanchoudhury@hri.res.in",
+    "university": "Pitt"
+  },
+  {
+    "name": "Choyke",
+    "email": "choyke@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Coalson",
+    "email": "coalson@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Dai",
+    "email": "daiyn@sustech.edu.cn",
+    "university": "Pitt"
+  },
+  {
+    "name": "Dai",
+    "email": "zhd59@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Devaty",
+    "email": "devaty@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Dutt",
+    "email": "gdutt@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Feng",
+    "email": "mif21@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Frolov",
+    "email": "frolovsm@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Gallagher",
+    "email": "pdg@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Hatridge",
+    "email": "michael.hatridge@yale.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Irvin",
+    "email": "prist2@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Jasnow",
+    "email": "jasnow@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Jiang",
+    "email": "joj134@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Johnsen",
+    "email": "rj@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Levy",
+    "email": "jlevy@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Liu",
+    "email": "wvliu@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Liu",
+    "email": "junyuliu@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Marom",
+    "email": "nmarom@andrew.cmu.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Mendoza\u2011Arenas",
+    "email": "jum151@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Mong",
+    "email": "rmong@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Ohodnicki",
+    "email": "pro8@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Petek",
+    "email": "petek@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Pratt",
+    "email": "rpratt@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Purdy",
+    "email": "tpp9@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Seshadreesan",
+    "email": "kausesh@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Shi",
+    "email": "zhujunshi@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Snoke",
+    "email": "snoke@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Tan",
+    "email": "shijing@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Yang",
+    "email": "judyyang@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Youngblood",
+    "email": "nathan.youngblood@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Zhao",
+    "email": "jiz38@pitt.edu",
+    "university": "Pitt"
+  },
+  {
+    "name": "Jaszczak",
+    "email": "jaszczak@mtu.edu",
+    "university": "MTU"
+  },
+  {
+    "name": "Pati",
+    "email": "patir@mtu.edu",
+    "university": "MTU"
+  },
+  {
+    "name": "Suh",
+    "email": "jsuh@mtu.edu",
+    "university": "MTU"
+  },
+  {
+    "name": "Yap",
+    "email": "ykyap@mtu.edu",
+    "university": "MTU"
+  },
+  {
+    "name": "Zhong",
+    "email": "qizhong@mtu.edu",
+    "university": "MTU"
+  },
+  {
+    "name": "Blok",
+    "email": "machielblok@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Bocko",
+    "email": "mark.bocko@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Dery",
+    "email": "hanan.dery@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Franco",
+    "email": "ignacio.franco@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Jordan",
+    "email": "jordan@pas.rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Landi",
+    "email": "gabriel.landi@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Murthy",
+    "email": "cmurthy@pas.rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Nichol",
+    "email": "john.nichol@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Rajeev",
+    "email": "s.g.rajeev@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Shapir",
+    "email": "ysha@pas.rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Sobolewski",
+    "email": "roman.sobolewski@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Teitel",
+    "email": "stte@pas.rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Wu",
+    "email": "stephen.wu@rochester.edu",
+    "university": "Rochester"
+  },
+  {
+    "name": "Montoya",
+    "email": "emontoya@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Vardeny",
+    "email": "val@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Rogachev",
+    "email": "andrey@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Deemyad",
+    "email": "deemyad@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Deshpande",
+    "email": "vdesh@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Boehme",
+    "email": "boehme@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Ye",
+    "email": "mye@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Starykh",
+    "email": "starykh@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Raikh",
+    "email": "raikh@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Mishchenko",
+    "email": "mishch@physics.utah.edu",
+    "university": "Utah"
+  },
+  {
+    "name": "Bazaliy",
+    "email": "bazaliy@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Bi",
+    "email": "wenlibi@sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Crawford",
+    "email": "crawftm@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Crittenden",
+    "email": "crittens@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Datta",
+    "email": "datta@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Jin",
+    "email": "rjin@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Kunchur",
+    "email": "kunchur@sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Mu",
+    "email": "mus@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Pershin",
+    "email": "pershyn@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Wu",
+    "email": "wu223@mailbox.sc.edu",
+    "university": "SC"
+  },
+  {
+    "name": "Chatzakis",
+    "email": "Ioannis.Chatzakis@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "DeGottardi",
+    "email": "wdegotta@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "Duncan",
+    "email": "Robert.Duncan@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "Eo",
+    "email": "yeo@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "Kim",
+    "email": "myounghwan.kim@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "Sanati",
+    "email": "M.Sanati@ttu.edu",
+    "university": "TTU"
+  },
+  {
+    "name": "Barraza\u2011Lopez",
+    "email": "sbarraza@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Bellaiche",
+    "email": "laurent@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Churchill",
+    "email": "hchurch@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Fu",
+    "email": "hfu@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Gea\u2011Banacloche",
+    "email": "jgeabana@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Hu",
+    "email": "jinhu@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Li",
+    "email": "jialili@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Nakamura",
+    "email": "hnakamur@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Oliver",
+    "email": "woliver@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Thibado",
+    "email": "thibado@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Vyas",
+    "email": "rvyas@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Wang",
+    "email": "yongwang@uark.edu",
+    "university": "UArk"
+  },
+  {
+    "name": "Forbes",
+    "email": "m.forbes@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Engels",
+    "email": "engels@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Guan",
+    "email": "qingze.guan@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Kuzyk",
+    "email": "kuz@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Saam",
+    "email": "brian.saam@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Tomsovic",
+    "email": "tomsovic@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Mei",
+    "email": "yefeng.mei@wsu.edu",
+    "university": "WSU"
+  },
+  {
+    "name": "Bhattacharya",
+    "email": "aniket@physics.ucf.edu",
+    "university": "FAU"
+  },
+  {
+    "name": "Lau",
+    "email": "alau@fau.edu",
+    "university": "FAU"
+  },
+  {
+    "name": "Sorge",
+    "email": "sorge@physics.fau.edu",
+    "university": "FAU"
+  },
+  {
+    "name": "Leventouri",
+    "email": "leventou@fau.edu",
+    "university": "FAU"
+  },
+  {
+    "name": "Han",
+    "email": "hanm@fau.edu",
+    "university": "FAU"
+  },
+  {
+    "name": "La Rosa",
+    "email": "andres@pdx.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Egerton",
+    "email": "EgertonR@pdx.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Moeck",
+    "email": "pmoeck@pdx.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Straton",
+    "email": "straton@pdx.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Konenkamp",
+    "email": "rkoen@pdx.edu",
+    "university": "PSU"
+  },
+  {
+    "name": "Barnes",
+    "email": "efbarnes@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Cao",
+    "email": "cjcao@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Cheng",
+    "email": "chengsf@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Dua",
+    "email": "adua@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Economou",
+    "email": "economou@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Heremans",
+    "email": "heremans@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Kaplan",
+    "email": "nadirkaplan@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Park",
+    "email": "kyungwha@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Pleimling",
+    "email": "pleim@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Scarola",
+    "email": "scarola@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Tauber",
+    "email": "tauber@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Zhou",
+    "email": "tzhou13@vt.edu",
+    "university": "VT"
+  },
+  {
+    "name": "Chui",
+    "email": "chui@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Nikolic",
+    "email": "bnikolic@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Li",
+    "email": "taoeli@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Jungfleisch",
+    "email": "mbj@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Ji",
+    "email": "yji@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Nowak",
+    "email": "nowak@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Shah",
+    "email": "ismat@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Xiao",
+    "email": "jqx@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Zhao",
+    "email": "wzhao@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Ren",
+    "email": "yfren@udel.edu",
+    "university": "UDel"
+  },
+  {
+    "name": "Kananenka",
+    "email": "akanane@udel.edu",
+    "university": "UDel"
+  }
+]
