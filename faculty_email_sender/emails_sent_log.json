@@ -1370,5 +1370,831 @@
     "university": "FSU",
     "timestamp": "2025-11-21 16:13:19",
     "status": "success"
+  },
+  {
+    "name": "Van\u202fWinkle",
+    "email": "dvanwinkle@fsu.edu",
+    "university": "FSU",
+    "timestamp": "2025-11-29 12:54:02",
+    "status": "success"
+  },
+  {
+    "name": "Zhao",
+    "email": "hzhao7@fsu.edu",
+    "university": "FSU",
+    "timestamp": "2025-11-29 12:54:06",
+    "status": "success"
+  },
+  {
+    "name": "Abanov",
+    "email": "abanov@physics.tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:11",
+    "status": "success"
+  },
+  {
+    "name": "Agarwal",
+    "email": "girish.agarwal@tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:15",
+    "status": "success"
+  },
+  {
+    "name": "Hu",
+    "email": "hu@physics.tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:20",
+    "status": "success"
+  },
+  {
+    "name": "Nieva",
+    "email": "jrodrigueznieva@tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:24",
+    "status": "success"
+  },
+  {
+    "name": "Pokrovsky",
+    "email": "valery@physics.tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:29",
+    "status": "success"
+  },
+  {
+    "name": "Saslow",
+    "email": "saslow@physics.tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:33",
+    "status": "success"
+  },
+  {
+    "name": "Xu",
+    "email": "slxu@tamu.edu",
+    "university": "TAMU",
+    "timestamp": "2025-11-29 12:54:38",
+    "status": "success"
+  },
+  {
+    "name": "Cheng",
+    "email": "glcheng@ustc.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:54:42",
+    "status": "success"
+  },
+  {
+    "name": "Choudhury",
+    "email": "sayanchoudhury@hri.res.in",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:54:47",
+    "status": "success"
+  },
+  {
+    "name": "Choyke",
+    "email": "choyke@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:54:51",
+    "status": "success"
+  },
+  {
+    "name": "Coalson",
+    "email": "coalson@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:54:56",
+    "status": "success"
+  },
+  {
+    "name": "Dai",
+    "email": "daiyn@sustech.edu.cn",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:01",
+    "status": "success"
+  },
+  {
+    "name": "Dai",
+    "email": "zhd59@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:06",
+    "status": "success"
+  },
+  {
+    "name": "Devaty",
+    "email": "devaty@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:10",
+    "status": "success"
+  },
+  {
+    "name": "Dutt",
+    "email": "gdutt@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:15",
+    "status": "success"
+  },
+  {
+    "name": "Feng",
+    "email": "mif21@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:19",
+    "status": "success"
+  },
+  {
+    "name": "Frolov",
+    "email": "frolovsm@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:24",
+    "status": "success"
+  },
+  {
+    "name": "Gallagher",
+    "email": "pdg@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:29",
+    "status": "success"
+  },
+  {
+    "name": "Hatridge",
+    "email": "michael.hatridge@yale.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:34",
+    "status": "success"
+  },
+  {
+    "name": "Irvin",
+    "email": "prist2@pitt.edu",
+    "university": "Pitt",
+    "timestamp": "2025-11-29 12:55:38",
+    "status": "success"
+  },
+  {
+    "name": "Jaszczak",
+    "email": "jaszczak@mtu.edu",
+    "university": "MTU",
+    "timestamp": "2025-11-29 12:58:38",
+    "status": "success"
+  },
+  {
+    "name": "Pati",
+    "email": "patir@mtu.edu",
+    "university": "MTU",
+    "timestamp": "2025-11-29 12:58:43",
+    "status": "success"
+  },
+  {
+    "name": "Suh",
+    "email": "jsuh@mtu.edu",
+    "university": "MTU",
+    "timestamp": "2025-11-29 12:58:47",
+    "status": "success"
+  },
+  {
+    "name": "Yap",
+    "email": "ykyap@mtu.edu",
+    "university": "MTU",
+    "timestamp": "2025-11-29 12:58:52",
+    "status": "success"
+  },
+  {
+    "name": "Zhong",
+    "email": "qizhong@mtu.edu",
+    "university": "MTU",
+    "timestamp": "2025-11-29 12:58:57",
+    "status": "success"
+  },
+  {
+    "name": "Blok",
+    "email": "machielblok@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:02",
+    "status": "success"
+  },
+  {
+    "name": "Bocko",
+    "email": "mark.bocko@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:06",
+    "status": "success"
+  },
+  {
+    "name": "Dery",
+    "email": "hanan.dery@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:11",
+    "status": "success"
+  },
+  {
+    "name": "Franco",
+    "email": "ignacio.franco@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:15",
+    "status": "success"
+  },
+  {
+    "name": "Jordan",
+    "email": "jordan@pas.rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:20",
+    "status": "success"
+  },
+  {
+    "name": "Landi",
+    "email": "gabriel.landi@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:24",
+    "status": "success"
+  },
+  {
+    "name": "Murthy",
+    "email": "cmurthy@pas.rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:29",
+    "status": "success"
+  },
+  {
+    "name": "Nichol",
+    "email": "john.nichol@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:33",
+    "status": "success"
+  },
+  {
+    "name": "Rajeev",
+    "email": "s.g.rajeev@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:37",
+    "status": "success"
+  },
+  {
+    "name": "Shapir",
+    "email": "ysha@pas.rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:42",
+    "status": "success"
+  },
+  {
+    "name": "Sobolewski",
+    "email": "roman.sobolewski@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:46",
+    "status": "success"
+  },
+  {
+    "name": "Teitel",
+    "email": "stte@pas.rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:51",
+    "status": "success"
+  },
+  {
+    "name": "Wu",
+    "email": "stephen.wu@rochester.edu",
+    "university": "Rochester",
+    "timestamp": "2025-11-29 12:59:56",
+    "status": "success"
+  },
+  {
+    "name": "Montoya",
+    "email": "emontoya@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:01",
+    "status": "success"
+  },
+  {
+    "name": "Vardeny",
+    "email": "val@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:05",
+    "status": "success"
+  },
+  {
+    "name": "Rogachev",
+    "email": "andrey@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:10",
+    "status": "success"
+  },
+  {
+    "name": "Deemyad",
+    "email": "deemyad@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:14",
+    "status": "success"
+  },
+  {
+    "name": "Deshpande",
+    "email": "vdesh@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:19",
+    "status": "success"
+  },
+  {
+    "name": "Boehme",
+    "email": "boehme@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:24",
+    "status": "success"
+  },
+  {
+    "name": "Ye",
+    "email": "mye@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:29",
+    "status": "success"
+  },
+  {
+    "name": "Starykh",
+    "email": "starykh@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:33",
+    "status": "success"
+  },
+  {
+    "name": "Raikh",
+    "email": "raikh@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:37",
+    "status": "success"
+  },
+  {
+    "name": "Mishchenko",
+    "email": "mishch@physics.utah.edu",
+    "university": "Utah",
+    "timestamp": "2025-11-29 13:00:41",
+    "status": "success"
+  },
+  {
+    "name": "Bazaliy",
+    "email": "bazaliy@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:00:46",
+    "status": "success"
+  },
+  {
+    "name": "Bi",
+    "email": "wenlibi@sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:00:51",
+    "status": "success"
+  },
+  {
+    "name": "Crawford",
+    "email": "crawftm@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:00:56",
+    "status": "success"
+  },
+  {
+    "name": "Crittenden",
+    "email": "crittens@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:00",
+    "status": "success"
+  },
+  {
+    "name": "Datta",
+    "email": "datta@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:05",
+    "status": "success"
+  },
+  {
+    "name": "Jin",
+    "email": "rjin@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:09",
+    "status": "success"
+  },
+  {
+    "name": "Kunchur",
+    "email": "kunchur@sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:14",
+    "status": "success"
+  },
+  {
+    "name": "Mu",
+    "email": "mus@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:18",
+    "status": "success"
+  },
+  {
+    "name": "Pershin",
+    "email": "pershyn@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:23",
+    "status": "success"
+  },
+  {
+    "name": "Wu",
+    "email": "wu223@mailbox.sc.edu",
+    "university": "SC",
+    "timestamp": "2025-11-29 13:01:27",
+    "status": "success"
+  },
+  {
+    "name": "Chatzakis",
+    "email": "Ioannis.Chatzakis@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:31",
+    "status": "success"
+  },
+  {
+    "name": "DeGottardi",
+    "email": "wdegotta@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:36",
+    "status": "success"
+  },
+  {
+    "name": "Duncan",
+    "email": "Robert.Duncan@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:40",
+    "status": "success"
+  },
+  {
+    "name": "Eo",
+    "email": "yeo@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:44",
+    "status": "success"
+  },
+  {
+    "name": "Kim",
+    "email": "myounghwan.kim@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:49",
+    "status": "success"
+  },
+  {
+    "name": "Sanati",
+    "email": "M.Sanati@ttu.edu",
+    "university": "TTU",
+    "timestamp": "2025-11-29 13:01:53",
+    "status": "success"
+  },
+  {
+    "name": "Barraza\u2011Lopez",
+    "email": "sbarraza@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:01:58",
+    "status": "success"
+  },
+  {
+    "name": "Bellaiche",
+    "email": "laurent@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:03",
+    "status": "success"
+  },
+  {
+    "name": "Churchill",
+    "email": "hchurch@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:07",
+    "status": "success"
+  },
+  {
+    "name": "Fu",
+    "email": "hfu@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:12",
+    "status": "success"
+  },
+  {
+    "name": "Gea\u2011Banacloche",
+    "email": "jgeabana@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:17",
+    "status": "success"
+  },
+  {
+    "name": "Hu",
+    "email": "jinhu@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:21",
+    "status": "success"
+  },
+  {
+    "name": "Li",
+    "email": "jialili@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:26",
+    "status": "success"
+  },
+  {
+    "name": "Nakamura",
+    "email": "hnakamur@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:30",
+    "status": "success"
+  },
+  {
+    "name": "Oliver",
+    "email": "woliver@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:35",
+    "status": "success"
+  },
+  {
+    "name": "Thibado",
+    "email": "thibado@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:39",
+    "status": "success"
+  },
+  {
+    "name": "Vyas",
+    "email": "rvyas@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:44",
+    "status": "success"
+  },
+  {
+    "name": "Wang",
+    "email": "yongwang@uark.edu",
+    "university": "UArk",
+    "timestamp": "2025-11-29 13:02:48",
+    "status": "success"
+  },
+  {
+    "name": "Forbes",
+    "email": "m.forbes@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:02:53",
+    "status": "success"
+  },
+  {
+    "name": "Engels",
+    "email": "engels@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:02:57",
+    "status": "success"
+  },
+  {
+    "name": "Guan",
+    "email": "qingze.guan@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:03:01",
+    "status": "success"
+  },
+  {
+    "name": "Kuzyk",
+    "email": "kuz@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:03:06",
+    "status": "success"
+  },
+  {
+    "name": "Saam",
+    "email": "brian.saam@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:03:11",
+    "status": "success"
+  },
+  {
+    "name": "Tomsovic",
+    "email": "tomsovic@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:03:15",
+    "status": "success"
+  },
+  {
+    "name": "Mei",
+    "email": "yefeng.mei@wsu.edu",
+    "university": "WSU",
+    "timestamp": "2025-11-29 13:03:20",
+    "status": "success"
+  },
+  {
+    "name": "Bhattacharya",
+    "email": "aniket@physics.ucf.edu",
+    "university": "FAU",
+    "timestamp": "2025-11-29 13:03:24",
+    "status": "success"
+  },
+  {
+    "name": "Lau",
+    "email": "alau@fau.edu",
+    "university": "FAU",
+    "timestamp": "2025-11-29 13:03:28",
+    "status": "success"
+  },
+  {
+    "name": "Sorge",
+    "email": "sorge@physics.fau.edu",
+    "university": "FAU",
+    "timestamp": "2025-11-29 13:03:33",
+    "status": "success"
+  },
+  {
+    "name": "Leventouri",
+    "email": "leventou@fau.edu",
+    "university": "FAU",
+    "timestamp": "2025-11-29 13:03:38",
+    "status": "success"
+  },
+  {
+    "name": "Han",
+    "email": "hanm@fau.edu",
+    "university": "FAU",
+    "timestamp": "2025-11-29 13:03:42",
+    "status": "success"
+  },
+  {
+    "name": "La Rosa",
+    "email": "andres@pdx.edu",
+    "university": "PSU",
+    "timestamp": "2025-11-29 13:03:47",
+    "status": "success"
+  },
+  {
+    "name": "Egerton",
+    "email": "EgertonR@pdx.edu",
+    "university": "PSU",
+    "timestamp": "2025-11-29 13:03:52",
+    "status": "success"
+  },
+  {
+    "name": "Moeck",
+    "email": "pmoeck@pdx.edu",
+    "university": "PSU",
+    "timestamp": "2025-11-29 13:03:56",
+    "status": "success"
+  },
+  {
+    "name": "Straton",
+    "email": "straton@pdx.edu",
+    "university": "PSU",
+    "timestamp": "2025-11-29 13:04:00",
+    "status": "success"
+  },
+  {
+    "name": "Konenkamp",
+    "email": "rkoen@pdx.edu",
+    "university": "PSU",
+    "timestamp": "2025-11-29 13:04:05",
+    "status": "success"
+  },
+  {
+    "name": "Barnes",
+    "email": "efbarnes@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:10",
+    "status": "success"
+  },
+  {
+    "name": "Cao",
+    "email": "cjcao@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:14",
+    "status": "success"
+  },
+  {
+    "name": "Cheng",
+    "email": "chengsf@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:19",
+    "status": "success"
+  },
+  {
+    "name": "Dua",
+    "email": "adua@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:23",
+    "status": "success"
+  },
+  {
+    "name": "Economou",
+    "email": "economou@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:27",
+    "status": "success"
+  },
+  {
+    "name": "Heremans",
+    "email": "heremans@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:32",
+    "status": "success"
+  },
+  {
+    "name": "Kaplan",
+    "email": "nadirkaplan@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:36",
+    "status": "success"
+  },
+  {
+    "name": "Park",
+    "email": "kyungwha@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:40",
+    "status": "success"
+  },
+  {
+    "name": "Pleimling",
+    "email": "pleim@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:45",
+    "status": "success"
+  },
+  {
+    "name": "Scarola",
+    "email": "scarola@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:49",
+    "status": "success"
+  },
+  {
+    "name": "Tauber",
+    "email": "tauber@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:54",
+    "status": "success"
+  },
+  {
+    "name": "Zhou",
+    "email": "tzhou13@vt.edu",
+    "university": "VT",
+    "timestamp": "2025-11-29 13:04:58",
+    "status": "success"
+  },
+  {
+    "name": "Chui",
+    "email": "chui@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:03",
+    "status": "success"
+  },
+  {
+    "name": "Nikolic",
+    "email": "bnikolic@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:07",
+    "status": "success"
+  },
+  {
+    "name": "Li",
+    "email": "taoeli@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:12",
+    "status": "success"
+  },
+  {
+    "name": "Jungfleisch",
+    "email": "mbj@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:16",
+    "status": "success"
+  },
+  {
+    "name": "Ji",
+    "email": "yji@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:20",
+    "status": "success"
+  },
+  {
+    "name": "Nowak",
+    "email": "nowak@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:25",
+    "status": "success"
+  },
+  {
+    "name": "Shah",
+    "email": "ismat@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:29",
+    "status": "success"
+  },
+  {
+    "name": "Xiao",
+    "email": "jqx@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:33",
+    "status": "success"
+  },
+  {
+    "name": "Zhao",
+    "email": "wzhao@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:38",
+    "status": "success"
+  },
+  {
+    "name": "Ren",
+    "email": "yfren@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:42",
+    "status": "success"
+  },
+  {
+    "name": "Kananenka",
+    "email": "akanane@udel.edu",
+    "university": "UDel",
+    "timestamp": "2025-11-29 13:05:47",
+    "status": "success"
   }
 ]
